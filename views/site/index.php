@@ -2,7 +2,12 @@
 
 /** @var yii\web\View $this */
 
-$this->title = 'My Yii Application';
+$this->title = 'Главная';
+// echo Breadcrumbs::widget([
+// 'homeLink' => ['label' => 'Главная', 'url' => '/'],
+//  'links' => isset($this->params['breadcrumbs']) ? $this->params['breadcrumbs'] : [],
+//]) 
+$this->params['breadcrumbs'][] = $this->title;
 ?>
 <div class="site-index">
 
