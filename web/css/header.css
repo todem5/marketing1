@@ -2,3 +2,40 @@
     /*padding: 15px 15px 20px;*/
     border-bottom: 1px solid #f18e6f;
 }
+
+.navbar-brand > img
+{
+    /* не работает на размер логотипа */
+}
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-around;
+  flex: 1, 1, auto;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+
+#main_menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#main_menu .nav-link {
+    font-weight: bold;
+    font-size: medium;
+    color: brown;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.my-navbar {
+    background-color: #ffffff;
+}
