@@ -5,10 +5,15 @@
 
 .navbar-brand > img
 {
-    /* не работает на размер логотипа */
+   max-width: 90px;
+   /* не работает на размер логотипа */
 }
 
-.navbar-collapse {
+/* .navbar {
+    background-color: #fffff;
+} */
+
+/* .navbar-collapse {
   display: flex;
   flex-direction: row;
 }
@@ -19,7 +24,7 @@
   flex: 1, 1, auto;
   flex-grow: 1;
   flex-shrink: 1;
-}
+} */
 
 #main_menu {
     display: flex;
