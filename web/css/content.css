@@ -70,6 +70,19 @@
   /* background-color: #DAA520; */
 }
 
+.site-tales__button {
+  display: flex;
+  margin: 0px 10px 10px;
+  border-radius: 1.8571em;
+  border: 2px solid;
+  height: 3.4285em;
+  width: 8.0em;
+  transition: all 0.5s ease;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 @media only screen and (min-width: 300px) and (max-width: 767px) {
    .site-tales__item {
       flex-basis: 90%;

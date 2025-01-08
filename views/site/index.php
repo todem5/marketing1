@@ -28,6 +28,73 @@
 </div>
 
 <div class="site-block">
+  <div class="block-title">
+    <h3>Решения для бизнеса</h3>
+  </div>
+  <div class="site-tales">
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Аудит - Бесплатно
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Привлечение трафика
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Комплексный маркетинг
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Договор - обазец (ссылка)
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Инструкции для подключения к Вашему кабинету Direct и Метрика
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Работа с инфлюенсерами. Ревью с лидерами мнений (опционально)
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Лендинг
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__description">
+        Проведение маркетинговой стратегии. Сопровождение штатного специалиста/отдела маркетинга.
+      </div>
+      <div class="site-tales__button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+  </div>
+</div>
+
+<div class="site-block">
+  <div class="block-title">
+    <h3>Этапы взаимодействия</h3>
+  </div>
   <div class="site-tales">
     <div class="site-tales__item">
       <div class="site-tales__title">
