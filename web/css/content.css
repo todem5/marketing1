@@ -71,17 +71,48 @@
 }
 
 .site-tales__button {
-  display: flex;
-  margin: 0px 10px 10px;
+  margin-top: auto;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
   border-radius: 1.8571em;
   border: 2px solid;
   height: 3.4285em;
   width: 8.0em;
+}
+
+.button {
+  display: flex;
   transition: all 0.5s ease;
   align-items: center;
   justify-content: center;
   text-align: center;
 }
+
+.site-tales__item2 {
+  display: flex;
+  flex: 0 1 200px;
+  justify-content: space-between;
+  height: calc(205px + 213 * ((100vw - 320px) / 1600));
+  color: white;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: 10px;
+  /* background-color: #0e7a00; */
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+  background-image: url(../img/service2_img.jpg);
+}
+
+.site-tales__item2:hover {
+  .button {
+    background-color: white;
+    color: #454545;
+  }
+}
+
+/*    */
 
 @media only screen and (min-width: 300px) and (max-width: 767px) {
    .site-tales__item {

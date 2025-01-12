@@ -3,6 +3,10 @@ main > .container {
     padding: 90px 15px 20px;
 }
 
+body {
+  font-family: "PTRootUIWeb", sans-serif;
+}
+
 .header {
     max-height: 120px;
 }
