@@ -54,6 +54,11 @@
       <a href="/uslugi/konsaltingovye-uslugi/"></a>
     </div>
     <div class="site-tales__item2">
+      <div class="site-tales__description">Контент маркетинг</div>
+      <div class="site-tales__button button">Подробнее</div>
+      <a href="/uslugi/konsaltingovye-uslugi/"></a>
+    </div>
+    <div class="site-tales__item2">
       <div class="site-tales__description">
         Договор - обазец (ссылка)
       </div>
@@ -98,43 +103,52 @@
   <div class="site-tales">
     <div class="site-tales__item">
       <div class="site-tales__title">
-        1
+        Этап 1
       </div>
       <div class="site-tales__description">
-        Определим бизнес и маркетинговые задачи.
+        Заключаем договор и создаем рабочую группу.
       </div>
     </div>
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        2
+        Этап 2
       </div>
       <div class="site-tales__description">
-        Создадим продающий классный сайт с презентациями продукта
+        Зафиксируем бизнес и маркетинговые задачи
       </div>
     </div>
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        3
+        Этап 3
       </div>
       <div class="site-tales__description">
-        Позиционируем Ваш бренд
+        Проведем UNIT-экономику Вашего продукта или услуг. Поймем на какие каналы какой бюджет
       </div>
     </div>
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        4
+        Этап 4
       </div>
       <div class="site-tales__description">
-        Проведем ревью с инфлюенсерами мнений о Вашем продукте
+        Создадим продающий классный сайт или составим ТЗ для Вашего специалиста по улучшению
       </div>
     </div>
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        5
+        Этап 5
+      </div>
+      <div class="site-tales__description">
+        Позиционируем Ваш бренд, товар или услуги на фоне конкурентов
+      </div>
+    </div>
+
+    <div class="site-tales__item">
+      <div class="site-tales__title">
+        Этап 6
       </div>
       <div class="site-tales__description">
         Подберем блогеров и проработаем с ними оптимальный план сотрудничества
@@ -143,31 +157,119 @@
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        6
+        Этап 7
       </div>
       <div class="site-tales__description">
-        Проведем UNIT-экономику Вашего продукта или услуг
+        Запустим рекламную компанию Yandex Direct
       </div>
     </div>
 
     <div class="site-tales__item">
       <div class="site-tales__title">
-        7
+        Этап 8
       </div>
       <div class="site-tales__description">
-        Запустим рекламную компанию
+        Запустим рекламную компанию Vk ads, Telegram ads
       </div>
     </div>
-
     <div class="site-tales__item">
       <div class="site-tales__title">
-        8
+        Этап 9
       </div>
       <div class="site-tales__description">
-        Получим много лидов, конверсий, продаж
+        Запустим контент маркетинг SMM
+      </div>
+    </div>
+    <div class="site-tales__item">
+      <div class="site-tales__title">
+        Этап 10
+      </div>
+      <div class="site-tales__description">
+        Анализируем, делаем выводы, адаптируем
       </div>
     </div>
   </div>
+</div>
+
+<div class="site-block">
+  <div class="block-title">
+    <h3>Гарантии</h3>
+  </div>
+  <div class="site-tales">
+    <div class="site-tales__item">
+      <div class="site-tales__title">
+        Официальное сотрудничество по договору.
+      </div>
+      <div class="site-tales__description">
+        Заключаем договор на маркетинговое сопровождение с полным описанием комплекса услуг и ответственностью сторон
+      </div>
+    </div>
 
 
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      По проекту составляем маркетинговую стратегию на комплекс услуг для достижения поставленных целей
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Прозрачность работы. Ежемесячно мы готовим отчеты о выполненной работе с расчетами рентабельности проекта и ключевыми показателями эффективности. Проводим полный учет трат рекламных бюджетов, рассчитываем прогнозы на следующий период в динамике продвижения
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Вы получите максимальное вовлечение в проект. Мы на ежедневной основе мониторим заданные метрики и при необходимости адаптируем стратегию для максимальной рентабильности и экономии бюджета
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Гарантируем конфиденциальность данных по вашему проекту. Мы не показываем и не делимся с третьими лицами результатами нашей с вами работы.
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Регулярное взаимодействие с командой. За проектом закрепляется проект-менеджер и проектная команда от 3 человек. Мы всегда на связи и готовы ответить на текущие вопросы по проекту максимально оперативно
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Опыт Работы более 15 лет. Экспертный уровень в стоматологических, медицинских и бьюти нишах
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Экспертиза. Опыт Работы более 15 лет.Большая экспертиза в таких нишах как стоматология, медицина и бьюти. Работаем только с четко отслеживаемыми метриками: LTV, ROI, DRR, CPO, CPL, СPC
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Команда. Наша команда состоит из профессионалов с большим опытом, профильным образованием, ежегодно проходят сертификацию в Яндекс, приверженицы непрерывного обучения, любят спорт и вообще
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Прозрачность работы. Не навязываем бесполезные услуги и не беремся за те проекты, которые не сможем максимально качественно
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Честность. Если мы не можем вам помочь, мы честно об этом скажем и откажемся от проекта
+    </div>
+  </div>
+
+  <div class="site-tales__item">
+    <div class="site-tales__description">
+      Новый формат. Кол-во и набор услуг не играет роли. Мы работаем исключительно на увеличение цифр в вашем бюджете
+    </div>
+  </div>
+</div>
 </div>
