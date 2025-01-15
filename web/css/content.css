@@ -112,7 +112,71 @@
   }
 }
 
-/*    */
+/* Гарантии    */
+
+.site-tales__icon3{
+  text-align: left;
+}
+
+.site-tales__icon3 > img {
+  width: 40px;
+  margin-top: 10px;
+}
+
+.site-tales__title3 {
+  color: #000066;
+  font-weight: bold;
+  margin: 10px;
+  text-align: left;
+  line-height: 1.2em;
+}
+
+.site-tales__item3 {
+  display: flex;
+  width: 22%;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: 10px;
+  background-color: #ffffff;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.site-tales__description3 {
+  margin: 10px;
+  font-size: 0.9rem;
+}
+
+/* Наши проекты  */
+
+.site-tales__item5 {
+  display: flex;
+  width: 22%;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin: 10px;
+  background-color: #ffffff;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.site-tales__icon5 > img {
+  /* width: 40px; */
+  margin-top: 10px;
+}
+
+.site-tales__title5 {
+  color: #000066;
+  font-weight: bold;
+  margin: 10px;
+  text-align: left;
+  line-height: 1.2em;
+}
+
+.site-tales__description5 {
+  margin: 10px;
+  font-size: 0.9rem;
+}
 
 @media only screen and (min-width: 300px) and (max-width: 767px) {
    .site-tales__item {
@@ -135,17 +199,31 @@
    .block-right {
      width: 100%;
    }
+
+   .site-tales__item3 {
+     flex-basis: 48%;
+     flex-shrink: 0;
+     flex-grow: 1;
+     width: 88%;
+   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 960px) {
+  .header {
+      max-height: 90px;
+  }
+
    .site-tales__item {
       flex-basis: 90%;
       flex-shrink: 0;
       width: 88%;
    }
 
-   .header {
-       max-height: 90px;
+   .site-tales__item3 {
+     flex-basis: 34%;
+     flex-shrink: 0;
+     flex-grow: 1;
+     width: 88%;
    }
 
 }
@@ -154,5 +232,12 @@
       /* flex-basis: 94%; */
       flex-shrink: 1;
       width: 40%;
+   }
+
+   .site-tales__item3 {
+     flex-basis: 22%;
+     flex-shrink: 0;
+     flex-grow: 1;
+     width: 88%;
    }
 }
