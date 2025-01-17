@@ -23,9 +23,11 @@ class AppAsset extends AssetBundle
         'css/site.css',
         'css/header.css',
         'css/content.css',
-        'css/fonts.css'
+        'css/fonts.css',
+        'css/lightbox.min.css'
     ];
     public $js = [
+        'js/lightbox.min.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',

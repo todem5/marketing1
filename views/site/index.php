@@ -405,8 +405,7 @@
     <div class="site-tales">
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo Kitchen Russia
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\01kitchen.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Сервис по доставке правильного питания. г.Москва
@@ -418,8 +417,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo Magnit
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\02magnit.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Сервис Магнит Доставка, г. Москва
@@ -431,8 +429,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo 2brata
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\03brata.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Сервис чистка обуви «Два брата» г.Санкт-Петербург,
@@ -444,8 +441,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo kosmostom
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\04kosmostom.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Стоматология "Космостом" г.Омск. <br>штатный маркетолог - комплексный маркетинг.
@@ -458,8 +454,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo smile
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\05smile.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Стоматология «Улыбка», г. Омск, <br>штатный маркетолог - комплексный маркетинг
@@ -472,8 +467,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\06gas.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Омска областная газовая компания.
@@ -485,8 +479,7 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo Xiaomi
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\07xiaomi.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Интернет-магазин оригинальной техники Xiaomi г.Москва
@@ -498,14 +491,30 @@
 
       <div class="site-tales__item5">
         <div class="site-tales__icon5">
-          logo Korean House
-            <img src="img\____" class="img__guarantee" alt="">
+            <img src="img\08korean.png" class="img__project" width="210px" height="100px" alt="">
         </div>
         <div class="site-tales__title5">
           Оптовый дистрибьютор корейской косметики Korean business.
         </div>
         <div class="site-tales__description5">
           Комплексный маркетинг. Директор отдела маркетинга 5 лет. Создание отдела с "нуля".
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="site-block">
+    <div class="block-title">
+      <h3>Рекомендации</h3>
+    </div>
+    <div class="site-tales">
+
+      <div class="gallery">
+        <div class="gallery-item">
+          <a href="img/recomendation2.jpg" data-lightbox="gallery" data-image-alt="Image 1">
+            <img src="img/recomendation_sm.jpg" alt="Thumbnail 1">
+          </a>
         </div>
       </div>
 
