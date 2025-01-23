@@ -204,6 +204,21 @@
     display: none;
 }
 
+@media only screen and (min-width: 300px) and (max-width: 470px) {
+
+  .site-tales__item2 {
+    width: 88%;
+
+    display: flex;
+    flex: 1 1 90%;
+    justify-content: space-between;
+    height: calc(205px + 213 * ((100vw - 320px) / 1600));
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
+
+}
+
 @media only screen and (min-width: 300px) and (max-width: 767px) {
    .site-tales__item {
       flex-basis: 90%;
@@ -211,6 +226,8 @@
       flex-grow: 1;
       width: 88%;
    }
+
+   
 
    .select-block {
      display: flex;
