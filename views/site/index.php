@@ -29,7 +29,7 @@
 
 
 
-  <div class="site-block">
+  <div class="site-block" id="part2">
     <div class="block-title">
       <h3>Решения для бизнеса</h3>
     </div>
@@ -191,9 +191,9 @@
     </div>
   </div>
 
-  <div class="site-block">
+  <div class="site-block" id="part4">
     <div class="block-title">
-      <h3>Гарантии</h3>
+      <h3 >Гарантии</h3>
     </div>
     <div class="site-tales">
       <div class="site-tales__item3">
@@ -398,7 +398,7 @@
     </div>
   </div>
 
-  <div class="site-block">
+  <div class="site-block" id="part6">
     <div class="block-title">
       <h3>Наши проекты</h3>
     </div>
